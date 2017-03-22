@@ -4,6 +4,7 @@ Made for MLWARE 1 2017 by IIT BHU
 Training Set contains over 90000 tweets with label "sarcastic" or "not-sarcastic".
 
 accuracy_score = 0.875962559745
+
 f1_score = 0.875851300621
 
 Features used :-
